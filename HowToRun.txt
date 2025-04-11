@@ -1,0 +1,4 @@
+Just Run ALL cells in JUPYTER Notebook
+
+
+The report is written in MarkUp cells
